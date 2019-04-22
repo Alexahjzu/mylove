@@ -1,2 +1,2 @@
 # My Love Story
-Site: http://love.cuiqingcai.com/
+https://alexahjzu.github.io/mylove/
